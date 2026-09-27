@@ -58,6 +58,9 @@ Through this project, I learned:
 
 ## 👨‍💻 Developer
 
-**Fahim Nahin**
+**Fahim Nahin**  
 
-Computer Graphics Course Project
+🎓 Computer Science & Engineering (CSE) Student  
+🏫 American International University-Bangladesh (AIUB)  
+
+📌 **Course:** Computer Graphics  
