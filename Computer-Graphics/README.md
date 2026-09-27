@@ -38,7 +38,7 @@ The main objective of this project is to implement computer graphics concepts su
 ## 📷 Screenshots
 
 ### Day Scene
-![Day Scene](Screenshot/day.png)
+![Day Scene](Computer-Graphics/Screenshots/Screenshot 2026-09-27 215704.png)
 
 ### Night Scene
 ![Night Scene](Screenshot/night.png)
