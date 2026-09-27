@@ -58,7 +58,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Developer
 
-**Fahim Nahin**  
+**MD. Fahim Intisar Nahin**  
 
 🎓 Computer Science & Engineering (CSE) Student  
 🏫 American International University-Bangladesh (AIUB)  
