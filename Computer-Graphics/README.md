@@ -38,13 +38,13 @@ The main objective of this project is to implement computer graphics concepts su
 ## 📷 Screenshots
 
 ### Day Scene
-![Day Scene](Screenshot/day.png)
+![Day Scene](Screenshots/day.png)
 
 ### Night Scene
-![Night Scene](Screenshot/night.png)
+![Night Scene](Screenshots/night.png)
 
 ### Stall Light ON/OFF System
-![Light ON](Screenshot/light_on.png)
+![Light ON](Screenshots/light.png)
 
 ## 📚 Learning Outcomes
 
